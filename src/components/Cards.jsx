@@ -1,4 +1,3 @@
-import React, { useCallback, useEffect, useState } from "react";
 import { useFetchImgs } from "../hooks/useFetchImgs";
 import Card from "./Card";
 import Form from "./Form";
